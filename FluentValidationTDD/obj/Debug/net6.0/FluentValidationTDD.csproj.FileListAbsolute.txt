@@ -1,0 +1,17 @@
+C:\developer\c#\FluentValidationTDD\FluentValidationTDD\bin\Debug\net6.0\FluentValidationTDD.exe
+C:\developer\c#\FluentValidationTDD\FluentValidationTDD\bin\Debug\net6.0\FluentValidationTDD.deps.json
+C:\developer\c#\FluentValidationTDD\FluentValidationTDD\bin\Debug\net6.0\FluentValidationTDD.runtimeconfig.json
+C:\developer\c#\FluentValidationTDD\FluentValidationTDD\bin\Debug\net6.0\FluentValidationTDD.dll
+C:\developer\c#\FluentValidationTDD\FluentValidationTDD\bin\Debug\net6.0\FluentValidationTDD.pdb
+C:\developer\c#\FluentValidationTDD\FluentValidationTDD\bin\Debug\net6.0\FluentValidation.dll
+C:\developer\c#\FluentValidationTDD\FluentValidationTDD\obj\Debug\net6.0\FluentValidationTDD.csproj.AssemblyReference.cache
+C:\developer\c#\FluentValidationTDD\FluentValidationTDD\obj\Debug\net6.0\FluentValidationTDD.GeneratedMSBuildEditorConfig.editorconfig
+C:\developer\c#\FluentValidationTDD\FluentValidationTDD\obj\Debug\net6.0\FluentValidationTDD.AssemblyInfoInputs.cache
+C:\developer\c#\FluentValidationTDD\FluentValidationTDD\obj\Debug\net6.0\FluentValidationTDD.AssemblyInfo.cs
+C:\developer\c#\FluentValidationTDD\FluentValidationTDD\obj\Debug\net6.0\FluentValidationTDD.csproj.CoreCompileInputs.cache
+C:\developer\c#\FluentValidationTDD\FluentValidationTDD\obj\Debug\net6.0\FluentValidationTDD.csproj.CopyComplete
+C:\developer\c#\FluentValidationTDD\FluentValidationTDD\obj\Debug\net6.0\FluentValidationTDD.dll
+C:\developer\c#\FluentValidationTDD\FluentValidationTDD\obj\Debug\net6.0\refint\FluentValidationTDD.dll
+C:\developer\c#\FluentValidationTDD\FluentValidationTDD\obj\Debug\net6.0\FluentValidationTDD.pdb
+C:\developer\c#\FluentValidationTDD\FluentValidationTDD\obj\Debug\net6.0\FluentValidationTDD.genruntimeconfig.cache
+C:\developer\c#\FluentValidationTDD\FluentValidationTDD\obj\Debug\net6.0\ref\FluentValidationTDD.dll

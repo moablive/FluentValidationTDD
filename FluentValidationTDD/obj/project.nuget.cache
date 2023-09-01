@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "xefVDNjH9ohShVhHod8uX9a3M+Bg/MzQkowURSR+ZMwlZvIAkaYJktv+VIU/dsQGpSE9MoKHz8MZ2YDraWY7Pw==",
+  "success": true,
+  "projectFilePath": "C:\\developer\\c#\\FluentValidationTDD\\FluentValidationTDD\\FluentValidationTDD.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\guilh\\.nuget\\packages\\fluentvalidation\\11.7.1\\fluentvalidation.11.7.1.nupkg.sha512",
+    "C:\\Users\\guilh\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.20\\microsoft.windowsdesktop.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\guilh\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.20\\microsoft.netcore.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\guilh\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.20\\microsoft.aspnetcore.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\guilh\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.20\\microsoft.netcore.app.host.win-x64.6.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}
